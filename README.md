@@ -7,7 +7,7 @@ Heart Prediction Project Using Streamlit
 3)Visual Studio<br> 
 
 #Informaiton About Project:#<br>
-This Repo contains heart disease prediction model creation jupyter notebook and deployment using Streamlit<br>
+This Repository contains heart disease prediction model creation jupyter notebook and deployment using Streamlit<br>
 
 <img src="https://github.com/ayodhyasathe16/Heart-Disease-Prediction-ML-Project/blob/main/Index.PNG" alt="Index_Page">
 
