@@ -9,7 +9,7 @@ Heart Prediction Project Using Streamlit
 #Informaiton About Project:#<br>
 This Repo contains heart disease prediction model creation jupyter notebook and deployment using Streamlit<br>
 
-<img src="img_girl.jpg" alt="Index_Page" width="500" height="600">
+<img src="https://github.com/ayodhyasathe16/Heart-Disease-Prediction-ML-Project/blob/main/Index.PNG" alt="Index_Page" width="500" height="600">
 
 
 
