@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-ML-Project
-<marquee>Heart Prediction Project Using Streamlit </marquee>
+Heart Prediction Project Using Streamlit 
 
 #Requirements:#<br>
 1)Jupyter Notebook<br>
